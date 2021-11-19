@@ -1,5 +1,4 @@
 # hi there, it's nice to see you.👋
------------
 ## first of all, who am i?
 
 #### 🌱 i'm Busra. i'm 17 yo and a highschooler.
