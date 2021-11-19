@@ -1,16 +1,25 @@
-### Hi there 👋
+# hi there, it's nice to see you.👋
+-----------
+## first of all, who am i?
 
-<!--
-**busragulen/busragulen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌱 i'm Busra. i'm 17 yo and a highschooler.
+##### 🧠 i'm really into ✨robotic systems✨ and ✨software development✨. 
+##### 🥵 i love working with <b><i>python</i></b> and <b><i>c-based-languages</i></b>(c and c++). 
+##### 💜 i'm the team captain of my school's robotics team which is ✨TFL Robotics✨. ( tflrobotics.com )
 
-Here are some ideas to get you started:
+## what am i doing?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 👩‍💻 i've started to <i>my technology journey</i> with web development: cms technologies, html, css and etc.
+- also, i'm the head of web development department of <b><i>TFL Robotics</i></b> since 2019.
+##### ⚡ now, i'm still learning about technology and trying to do some technology projects.
+
+## skills that i have:
+- vex robotics 
+- arduino uno
+- python
+- c / c++
+- html, css, cms
+- audacity / adobe premier
+
+#####  languages:
+#####  👾turkish= advanced, english= B2, german= A1
