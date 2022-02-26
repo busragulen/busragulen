@@ -11,6 +11,7 @@
 ##### 👩‍💻 i've started to <i>my technology journey</i> with web development: cms technologies, html, css and etc.
 - also, i'm the head of web development department of <b><i>TFL Robotics</i></b> since 2019.
 ##### ⚡ now, i'm still learning about technology and trying to do some technology projects.
+##### 🛩️ also i have a "drone driver" license called "İHA-1 License" given by Turkish Goverment.
 
 ## skills that i have:
 - vex robotics 
