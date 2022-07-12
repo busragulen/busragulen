@@ -1,7 +1,7 @@
 # hi there, it's nice to see you.👋
 ## first of all, who am i?
 
-#### 🌱 i'm Busra. i'm 18 yo and recently graduated from hschool.
+#### 🌱 i'm Busra. i'm 18 yo and recently graduated from high school.
 ##### 🧠 i'm really into ✨robotic systems✨ and ✨software development✨. 
 ##### 🥵 i love working with <b><i>python</i></b> and <b><i>c-based-languages</i></b>(c and c++). 
 ##### 💜 i was the team captain of my school's robotics team which is ✨TFL Robotics✨. ( tflrobotics.com )
