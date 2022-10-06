@@ -1,10 +1,10 @@
 # hi there, it's nice to see you.👋
 ## first of all, who am i?
 
-#### 🌱 i'm Busra. i'm 18 yo and recently graduated from high school.
+#### 🌱 i'm Busra. i'm 18 yo and i'm an <b><i>electrical engineering</b> </i> student in Kocaeli University.
 ##### 🧠 i'm really into ✨robotic systems✨ and ✨software development✨. 
-##### 🥵 i love working with <b><i>python</i></b> and <b><i>c-based-languages</i></b>(c and c++). 
-##### 💜 i was the team captain of my school's robotics team which is ✨TFL Robotics✨. ( tflrobotics.com )
+##### 🥵 i love working with <b><i>c-based-languages</i></b> and <b><i>python</i></b>. 
+##### 💜 i was the team captain of my high school's robotics team which is ✨TFL Robotics✨. ( tflrobotics.com )
 
 ## what am i doing?
 
