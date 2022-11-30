@@ -2,8 +2,7 @@
 ## first of all, who am i?
 
 #### 🌱 i'm Busra. i'm 18 yo and i'm an <b><i>electrical engineering</b> </i> student in Kocaeli University.
-##### 🧠 i'm really into ✨robotic systems✨ and ✨software development✨. 
-##### 🥵 i love working with <b><i>c-based-languages</i></b> and <b><i>python</i></b>. 
+##### 🥵 i love working with <b><i>c-based-languages</i></b> and <b><i>stm32</i></b>. 
 ##### 💜 i was the team captain of my high school's robotics team which is ✨TFL Robotics✨. ( tflrobotics.com )
 
 ## what am i doing?
@@ -14,12 +13,10 @@
 ##### 🛩️ also i have a "drone driver" license called "İHA-1 License" given by Turkish Goverment.
 
 ## skills that i have:
-- vex robotics 
+- c
+- stm32 
 - arduino uno
-- python
-- c / c++
-- html, css, cms
-- audacity / adobe premier
+- vex robotics 
 
 #####  languages:
 #####  👾turkish= L1, english= B2, german= A1
