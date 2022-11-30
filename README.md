@@ -3,6 +3,7 @@
 
 #### 🌱 i'm Busra. i'm 18 yo and i'm an <b><i>electrical engineering</b> </i> student in Kocaeli University.
 ##### 🥵 i love working with <b><i>c-based-languages</i></b> and <b><i>stm32</i></b>. 
+##### 🏎️ i'm currently a member of software subteam of ✨KOU Electricar✨. ( kouelectricar.com )
 ##### 💜 i was the team captain of my high school's robotics team which is ✨TFL Robotics✨. ( tflrobotics.com )
 
 ## what am i doing?
