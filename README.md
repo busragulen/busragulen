@@ -16,6 +16,8 @@
 ## skills that i have:
 - c
 - stm32 
+- uart/usart communication
+- rf communication
 - arduino uno
 - vex robotics 
 
