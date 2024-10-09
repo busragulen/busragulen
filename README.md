@@ -1,13 +1,13 @@
 # hi there, it's nice to see you.👋
 ## first of all, who am i?
 
-#### 🌱 i'm Busra. i'm 19 yo and i'm an <b><i>electrical engineering</b> </i> student in Kocaeli University.
+#### 🌱 i'm Busra. i'm 20 yo and i'm an <b><i>electrical engineering</b> </i> student in Kocaeli University.
 ##### 🥵 i love working with <b><i>c-based-languages</i></b> and <b><i>stm32</i></b>. 
-##### 🏎️ i'm currently a member of software subteam of ✨KOU Electricar✨. ( kouelectricar.com )
-##### 💜 i was the team captain of my high school's robotics team which is ✨TFL Robotics✨. ( tflrobotics.com )
+##### 🏎️ i'm currently team captain of ✨Chipware Labs✨. ( chipwarelabs.com )
 
 ## what am i doing?
 
+##### </> currently i am developing my own microcontroller!!!
 ##### 👩‍💻 i've started to <i>my technology journey</i> with web development: cms technologies, html, css and etc.
 - also, i was the head of web development department of <b><i>TFL Robotics</i></b> years between 2019 and 2022.
 ##### ⚡ now, i'm still learning about technology and trying to do some technology projects.
