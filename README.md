@@ -18,3 +18,5 @@
 
 #####  languages:
 #####  👾turkish= L1, english= B2, japanese= N5 
+
+www.linkedin.com/in/busragulenn/
